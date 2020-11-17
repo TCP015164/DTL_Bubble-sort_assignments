@@ -1,0 +1,22 @@
+     OUTPUT
+     
+$ ./bubble_sort.sh
+
+
+Enter length of Array : 10
+Enter element at index 0 : 3
+Enter element at index 1 : 6
+Enter element at index 2 : 9
+Enter element at index 3 : 8
+Enter element at index 4 : 6
+Enter element at index 5 : 0
+Enter element at index 6 : 3
+Enter element at index 7 : 4
+Enter element at index 8 : 5
+Enter element at index 9 : 3
+
+
+Array in original order
+3 6 9 8 6 0 3 4 5 3
+Array in sorted order :
+0 3 3 3 4 5 6 6 8 9
